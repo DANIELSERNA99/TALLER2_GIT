@@ -7,8 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-# Taller 2: version inicial para el control de cambios con Git
-# Rama auxiliar
+# Taller 2: cambios locales sincronizados con Github
 
 app = dash.Dash(
     __name__,
