@@ -8,7 +8,7 @@ import pandas as pd
 import datetime as dt
 
 # Taller 2: version inicial para el control de cambios con Git
-
+# Rama auxiliar
 
 app = dash.Dash(
     __name__,
